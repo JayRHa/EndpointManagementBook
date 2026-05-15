@@ -14,35 +14,54 @@ Document. Teach. Reference.
 
 ---
 
-`Endpoint Management` | `PowerShell` | `Public` | `Maintained`
+`Community Content` | `PowerShell` | `Public` | `Maintained`
 
 </div>
 
 ## What is this?
 
-Scripts and resources accompanying endpoint management book content.
+Endpoint Management Book contains learning, presentation, or documentation assets that support endpoint management and community knowledge sharing.
 
-> Browse the documentation below for setup notes, usage details, and project-specific context.
+## Project Context
 
----
+- The repository is useful when preparing demos, talks, reference material, or reusable examples.
+- Content is organized so source material can be reviewed, reused, and shared consistently.
+- This repository is maintained as a practical project and reference asset.
+
+## How It Works
+
+Source material is collected in the repository, organized into reusable sections, then rendered, presented, or referenced by readers and audiences.
+
+```mermaid
+flowchart LR
+    Source[Source material] --> Structure[Organized content]
+    Structure --> Review[Review and refine]
+    Review --> Output[Slides, docs, or examples]
+    Output --> Audience[Readers or audience]
+    Audience --> Feedback[Feedback]
+    Feedback --> Source
+```
 
 ## Quick Start
 
-1. Review the project documentation below.
+1. Review the project context and workflow below.
 2. Clone the repository:
 
    ```bash
    git clone https://github.com/JayRHa/EndpointManagementBook.git
    ```
 
-3. Follow the setup, deployment, or usage notes in the preserved documentation section.
+3. Continue with the project-specific documentation in the next section.
 
 ---
 <!-- unified-readme:end -->
 
-## Existing Documentation
+<!-- project-documentation:start -->
+## Project Documentation
 
-# Endpoint Management Book
+The sections below contain the repository-specific setup, usage, and reference material for this project.
+
+# Endpoint Management EndpointManagementBook
 
 Scripts and resources accompanying endpoint management book content.
 
