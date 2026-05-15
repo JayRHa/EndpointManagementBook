@@ -1,7 +1,7 @@
 <!-- unified-readme:start -->
 <div align="center">
 
-# Endpoint Management Book
+# Endpoint Management EndpointManagementBook
 
 **Scripts and resources accompanying endpoint management book content.**
 
@@ -20,7 +20,7 @@ Document. Teach. Reference.
 
 ## What is this?
 
-Endpoint Management Book contains learning, presentation, or documentation assets that support endpoint management and community knowledge sharing.
+Endpoint Management EndpointManagementBook contains learning, presentation, or documentation assets that support endpoint management and community knowledge sharing.
 
 ## Project Context
 
@@ -51,19 +51,10 @@ flowchart LR
    git clone https://github.com/JayRHa/EndpointManagementBook.git
    ```
 
-3. Continue with the project-specific documentation in the next section.
+3. Continue with the setup, usage, or workflow sections below.
 
 ---
 <!-- unified-readme:end -->
-
-<!-- project-documentation:start -->
-## Project Documentation
-
-The sections below contain the repository-specific setup, usage, and reference material for this project.
-
-# Endpoint Management EndpointManagementBook
-
-Scripts and resources accompanying endpoint management book content.
 
 ## Overview
 
