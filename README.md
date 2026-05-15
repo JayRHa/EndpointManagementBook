@@ -12,6 +12,12 @@ Document. Teach. Reference.
 [![GitHub issues](https://img.shields.io/github/issues/JayRHa/EndpointManagementBook?style=for-the-badge&logo=github&color=d73a4a)](https://github.com/JayRHa/EndpointManagementBook/issues)
 [![Contributors](https://img.shields.io/github/contributors/JayRHa/EndpointManagementBook?style=for-the-badge&logo=github&color=28a745)](https://github.com/JayRHa/EndpointManagementBook/graphs/contributors)
 
+<p>
+  <a href="https://jannikreinhard.com/">Blog</a> ·
+  <a href="https://www.linkedin.com/in/jannik-r/">LinkedIn</a> ·
+  <a href="https://x.com/jannik_reinhard">X</a>
+</p>
+
 ---
 
 `Community Content` | `PowerShell` | `Public` | `Maintained`
