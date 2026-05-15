@@ -1,7 +1,7 @@
 <!-- unified-readme:start -->
 <div align="center">
 
-# Endpoint Management EndpointManagementBook
+# Endpoint Management Book
 
 **Scripts and resources accompanying endpoint management book content.**
 
@@ -20,7 +20,7 @@ Document. Teach. Reference.
 
 ## What is this?
 
-Endpoint Management EndpointManagementBook contains learning, presentation, or documentation assets that support endpoint management and community knowledge sharing.
+Endpoint Management Book contains learning, presentation, or documentation assets that support endpoint management and community knowledge sharing.
 
 ## Project Context
 
