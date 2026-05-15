@@ -20,7 +20,7 @@ Document. Teach. Reference.
 
 ## What is this?
 
-This repository provides scripts and resources accompanying endpoint management book content.
+Scripts and resources accompanying endpoint management book content.
 
 > Browse the documentation below for setup notes, usage details, and project-specific context.
 
